@@ -1,0 +1,6 @@
+[submodule "ActivetyGenerator"]
+	path = ActivetyGenerator
+	url = https://github.com/EvgeniyPr87/ActivetyGenerator.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/EvgeniyPr87/ActivetyGenerator_Frontend.git
