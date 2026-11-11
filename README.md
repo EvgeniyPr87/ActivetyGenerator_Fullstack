@@ -30,5 +30,4 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Ваш_Ник/Название_Репозитория.git
-cd Название_Репозитория
+git clone https://github.com/EvgeniyPr87/ActivetyGenerator_Fullstack/edit/main
